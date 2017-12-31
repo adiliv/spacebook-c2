@@ -1,6 +1,6 @@
 var postsArr = [];
 var id = 0;
-
+//small change to secondBranch check
 function newPost(input, comment, username){
     var postObj = {
         text: input,
